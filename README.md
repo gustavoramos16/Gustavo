@@ -1,16 +1,15 @@
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Olá! Eu sou Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Olá! Eu sou o Gustavo</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-👨‍💻 &nbsp;Atualmente trabalho na Quinbay Technologies em Bangalore como Desenvolvedor Backend.\
-💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.\
-🎓 &nbsp;Estou atualmente estudando Ciência da Computação e Tecnologia da Informação na New Horizon College of Engineering.\
+👨‍💻 &nbsp;Atualmente trabalho na FAB Soluções em São José dos Campos como Desenvolvedor Backend.\
+💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software rápidos e eficientes.\
+🎓 &nbsp;Estou atualmente estudando Ciência da Computação e Tecnologia da Informação na UNIP.\
 🌱 &nbsp;Estou no caminho para aprender mais sobre Web3, Arquitetura Baseada em Microserviços, Machine Learning.\
-✍️ &nbsp;No meu tempo livre, me dedico ao Design de Logotipos e à Escrita de Blogs como hobbies/side hustles.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para consultoria pro bono, voluntariado ou apenas para uma discussão interessante.\
-✉️ &nbsp;Você pode me enviar um e-mail para adityakanoi123@gmail.com! Tentarei responder o mais rápido possível.\
+✉️ &nbsp;Você pode me enviar um e-mail para gu07ramos@gmail.com! Tentarei responder o mais rápido possível.\
 📄 &nbsp;Dê uma olhada no meu [Currículo](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -20,26 +19,20 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Bancos de Dados
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 
 ### 🧰 &nbsp;Controle de Versão & Ferramentas
