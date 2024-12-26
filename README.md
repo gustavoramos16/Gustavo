@@ -1,4 +1,4 @@
-![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card.png?raw=true)
+![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card.png?raw=true](https://github.com/gustavoramos16/Gustavo/blob/main/card1.png?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Olá! Eu sou o Gustavo</h2>
 
