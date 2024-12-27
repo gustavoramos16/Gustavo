@@ -111,5 +111,3 @@
 [![An image of @gustavoramos16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gustavoramos16)](https://holopin.io/@gustavoramos16)
 
 ### 🐍 &nbsp;É assim que os commits se movem...
-
-![Ocean Banner](https://github.com/gustavoramos16/gustavoramos16/blob/main/subCard.gif?raw=true)
