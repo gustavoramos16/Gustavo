@@ -17,7 +17,7 @@
 🌱 &nbsp;Estou no caminho para aprender mais sobre Web3, Arquitetura Baseada em Microserviços, Machine Learning.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para consultoria pro bono, voluntariado ou apenas para uma discussão interessante.\
 ✉️ &nbsp;Você pode me enviar um e-mail para gu07ramos@gmail.com! Tentarei responder o mais rápido possível.\
-📄 &nbsp;Dê uma olhada no meu [Currículo](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!
+📄 &nbsp;Dê uma olhada no meu [Currículo](https://onedrive.live.com/?cid=B6DB3C536542D461&sb=lastModifiedDateTime&sd=2&id=B6DB3C536542D461%21s6470d9d4f65446d285b1754c043e697f&parId=root&o=OneUp) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/b9/76/3d/b9763d398d581a8a2916ea94682c8c4c.gif" align="right"/>
 
