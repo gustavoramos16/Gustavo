@@ -1,12 +1,15 @@
+![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card1.png?raw=true)
+
+![Ocean Banner](https://i.pinimg.com/originals/4a/01/59/4a01599692eaa47afc113c5a3b043ed8.gif)
+
+<h2 align="center">Olá! Eu sou o Gustavo</h2><br>
+
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div><br>
 
-![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card1.png?raw=true)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Olá! Eu sou o Gustavo</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
