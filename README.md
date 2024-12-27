@@ -1,5 +1,3 @@
-![Ocean Banner](https://github.com/gustavoramos16/gustavoramos16/blob/main/subCard.gif?raw=true)
-
 ![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card1.png?raw=true)
 
 <h2 align="center">Olá! Eu sou o Gustavo</h2><br>
@@ -87,8 +85,4 @@
 
 ### 🐍 &nbsp;É assim que os commits se movem...
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![Ocean Banner](https://github.com/gustavoramos16/gustavoramos16/blob/main/subCard.gif?raw=true)
