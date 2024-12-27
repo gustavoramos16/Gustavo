@@ -19,7 +19,7 @@
 ✉️ &nbsp;Você pode me enviar um e-mail para gu07ramos@gmail.com! Tentarei responder o mais rápido possível.\
 📄 &nbsp;Dê uma olhada no meu [Currículo](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/b9/76/3d/b9763d398d581a8a2916ea94682c8c4c.gif" align="right"/>
 
 ### 🛠 &nbsp;Tecnologias
 
@@ -78,6 +78,34 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
+
+<h1 style="text-align: center;">A Ode ao Conhecimento das Engrenagens Ocultas</h1>
+<table border="0" width="100%">
+    <tr>
+        <td valign="top" width="50%">
+            <p>Ó nobres senhores e damas da corte,  
+            Reclinai vossos ouvidos à canção do futuro,  
+            Pois em tempos de ferro, fogo e lã,  
+            Ergue-se uma nova arte que moldará o mundo.</p>
+            <p>De mentes brilhantes, como alquimistas das eras,  
+            Surgiu a ciência das engrenagens invisíveis,  
+            Que, qual dragões de sabedoria, repousam em cofres  
+            De vidro e luz, pulsando com energia eterna.</p>
+        </td>
+        <td valign="top" width="50%">
+            <p>Dizei-me, quem imaginaria tal milagre?  
+            Máquinas que pensam, como sábios conselheiros,  
+            Carregando nos ombros o peso do cálculo,  
+            Velozes como o vento, precisas como a lâmina do aço.</p>
+          <p>Vede a promessa, ó reis do amanhã!
+            Carros sem cavalos a cruzar os reinos,
+            Mensagens que voam mais rápidas que a águia,
+            E mapas encantados que guiam qualquer viajante perdido.</p>
+        </td>
+    </tr>
+</table>
+
+<img alt="Night Coding" src="https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif" align="center"/>
 
 ### 🎖 &nbsp;Meus Badges
 
