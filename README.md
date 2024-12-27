@@ -1,6 +1,6 @@
-![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card1.png?raw=true)
+![Ocean Banner](https://github.com/gustavoramos16/gustavoramos16/blob/main/subCard.gif?raw=true)
 
-![Ocean Banner]()
+![Gustavo Texto Banner](https://github.com/gustavoramos16/Gustavo/blob/main/card1.png?raw=true)
 
 <h2 align="center">Olá! Eu sou o Gustavo</h2><br>
 
