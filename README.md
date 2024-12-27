@@ -74,7 +74,7 @@
 
 ### 🎖 &nbsp;Meus Badges
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+[![An image of @gustavoramos16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gustavoramos16)](https://holopin.io/@gustavoramos16)
 
 ### 🐍 &nbsp;É assim que os commits se movem...
 
