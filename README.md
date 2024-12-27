@@ -104,8 +104,7 @@
         </td>
     </tr>
 </table>
-
-<img alt="Night Coding" src="https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif" align="center"/>
+<img align = "center" alt="Night Coding" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/618395ed-3302-4408-bcd8-4ce51cc8b364/deoioou-d38e35ff-bf55-4160-835a-dec07338a5fe.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxODM5NWVkLTMzMDItNDQwOC1iY2Q4LTRjZTUxY2M4YjM2NFwvZGVvaW9vdS1kMzhlMzVmZi1iZjU1LTQxNjAtODM1YS1kZWMwNzMzOGE1ZmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F_NkKnBOQ-CENyMP9r3dr8qODWfa3tTW6ggHHiT40jQ"/>
 
 ### 🎖 &nbsp;Meus Badges
 
